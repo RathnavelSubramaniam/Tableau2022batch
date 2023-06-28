@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Using Java
+# Tableau
 
 - [DSA Using Java](#dsa-using-java)
   - [Announcements](#announcements)
